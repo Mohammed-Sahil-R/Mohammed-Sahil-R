@@ -155,10 +155,9 @@ terraform destroy
 
 # 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Sahil-R&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Sahil-R&layout=compact&theme=github_dark&hide_border=true" height="180"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Sahil-R&show_icons=true&theme=github_dark&hide_border=true" alt="Mohammed Sahil R GitHub Stats" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Sahil-R&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" /> </p>
 
 ---
 
@@ -172,9 +171,7 @@ terraform destroy
 
 # 📈 GitHub Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Sahil-R&theme=github-compact&hide_border=true" />
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohammed-Sahil-R&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" /> </p>
 
 ---
 
